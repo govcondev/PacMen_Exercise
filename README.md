@@ -8,6 +8,11 @@ This PacMen Exercise is a JavaScript project housed in this repository, designed
    - Simply double-click the `index.html` file to open it in your default web browser.
    - Alternatively, you can open the file directly from your browser's file menu.
 
+### Roadmap of Future Improvements 
+1. **Responsive Design:** Enhance the UI for better compatibility with various screen sizes.
+2. **PacMen Varieties:** Introduce different types of PacMen with unique behaviors.
+3. **Performance Optimization:** Optimize animation performance for smoother interaction.
+   
 ### File Structure
 - **PacMen Exercise**
   - `images/pacman1.png`
